@@ -39,7 +39,8 @@ hopeless romantic,
         Divider(),
         ProfileCard(
             imagePath: 'assets/images/Zoe.png',
-            description: 'desc',
+            description: '''Looking forward to playing some dead by daylight and
+having some coffee.''',
             title: 'The Nurse'),
         Divider(),
         ProfileCard(
