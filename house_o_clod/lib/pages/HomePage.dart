@@ -18,7 +18,13 @@ class _HomePage extends StatelessWidget {
       children: [
         ProfileCard(
             imagePath: 'assets/images/Clod.png',
-            description: 'description',
+            description: '''music is hard,
+Starlight zone explorer,
+Freaking Fag revolutionary,
+Ive got peter pan syndrome cause anime,
+Moon admirer aka  a lunatic, 
+hopeless romantic, 
+💛🚻⚠️🔄🆒️🎵🔮🌃🌌🌙♠️🌹🥀🌺🌷🌼🌻🐝 based''',
             title: 'The OG'),
         Divider(),
         ProfileCard(
@@ -38,8 +44,8 @@ class _HomePage extends StatelessWidget {
         Divider(),
         ProfileCard(
             imagePath: 'assets/images/Kelly.png',
-            description: 'desc',
-            title: 'The Server'),
+            description: "The crafter who'll drop you with 50 gaps",
+            title: 'Gunga'),
         Divider(),
         ProfileCard(
             imagePath: 'assets/images/Madison.png',
@@ -48,7 +54,7 @@ class _HomePage extends StatelessWidget {
         Divider(),
         ProfileCard(
             imagePath: 'assets/images/Ryan.png',
-            description: 'desc',
+            description: 'My bones hurt and I want to die',
             title: 'The Wrestler'),
         Divider(),
         ProfileCard(
